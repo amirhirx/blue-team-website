@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    background: #fff;
+    font-family: estedad;
+}
+*::selection{
+    color: #fff;
+    background: #27c8d3;
+}
+@font-face {
+    font-family: estedad;
+    src: url("../fonts/Estedad-FD[KSHD\,wght].woff2");
+}
