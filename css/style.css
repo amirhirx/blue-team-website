@@ -13,3 +13,6 @@ body{
     font-family: estedad;
     src: url("../fonts/Estedad-FD[KSHD\,wght].woff2");
 }
+a{
+    text-decoration: none;
+}

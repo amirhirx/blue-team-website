@@ -23,7 +23,6 @@ header{
     margin: 0 1rem;
 }
 .menu__list__item a{
-    text-decoration: none;
     color: #7e7e7e;
     padding: 0.3rem 0.5rem;
     font-size: 20px;
@@ -64,13 +63,11 @@ header{
     margin: 1rem;
     padding: 0.5rem;
     font-weight: 600;
-    text-decoration: none;
     border-radius: 0.5rem;
 }
 .header__right__links a:nth-child(2){
     margin: 1rem;
     font-weight: 600;
-    text-decoration: none;
     color: #27c8d3;
 }
 .header__left{
